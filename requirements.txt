@@ -120,7 +120,7 @@ google==2.0.3
 google-ai-generativelanguage==0.4.0
 google-api-core==2.11.1
 google-api-python-client==2.84.0
-google-auth==2.27.0
+google-auth
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
 google-cloud-aiplatform==1.42.1
